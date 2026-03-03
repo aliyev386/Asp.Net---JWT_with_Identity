@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|c:\\users\\omer\\source\\repos\\jwtwithidentity2\\jwtwithidentity\\repositories\\concretes\\userr\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|solutionrelative:jwtwithidentity\\repositories\\concretes\\userr\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Migrations\\20260303110526_AddedUserToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JwtWithIdentity\\Migrations\\20260303110526_AddedUserToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|c:\\users\\omer\\source\\repos\\jwtwithidentity2\\jwtwithidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|solutionrelative:jwtwithidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|c:\\users\\omer\\source\\repos\\jwtwithidentity2\\jwtwithidentity\\datas\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|solutionrelative:jwtwithidentity\\datas\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|c:\\users\\omer\\source\\repos\\jwtwithidentity2\\jwtwithidentity\\repositories\\abstracts\\common\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|solutionrelative:jwtwithidentity\\repositories\\abstracts\\common\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|c:\\users\\omer\\source\\repos\\jwtwithidentity2\\jwtwithidentity\\repositories\\abstracts\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|solutionrelative:jwtwithidentity\\repositories\\abstracts\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|c:\\users\\omer\\source\\repos\\jwtwithidentity2\\jwtwithidentity\\repositories\\abstracts\\interfaces\\userr\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|solutionrelative:jwtwithidentity\\repositories\\abstracts\\interfaces\\userr\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|c:\\users\\omer\\source\\repos\\jwtwithidentity2\\jwtwithidentity\\repositories\\abstracts\\interfaces\\todoitemm\\itodoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|solutionrelative:jwtwithidentity\\repositories\\abstracts\\interfaces\\todoitemm\\itodoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|c:\\users\\omer\\source\\repos\\jwtwithidentity2\\jwtwithidentity\\models\\entities\\concretes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|solutionrelative:jwtwithidentity\\models\\entities\\concretes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|c:\\users\\omer\\source\\repos\\jwtwithidentity2\\jwtwithidentity\\validations\\fluentvalidations\\concrete\\todoitemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|solutionrelative:jwtwithidentity\\validations\\fluentvalidations\\concrete\\todoitemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|c:\\users\\omer\\source\\repos\\jwtwithidentity2\\jwtwithidentity\\models\\dtos\\addtodoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|solutionrelative:jwtwithidentity\\models\\dtos\\addtodoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|c:\\users\\omer\\source\\repos\\jwtwithidentity2\\jwtwithidentity\\validations\\fluentvalidations\\concrete\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|solutionrelative:jwtwithidentity\\validations\\fluentvalidations\\concrete\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Validations\\FluentValidations\\UserValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JwtWithIdentity\\Validations\\FluentValidations\\UserValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|c:\\users\\omer\\source\\repos\\jwtwithidentity2\\jwtwithidentity\\models\\dtos\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|solutionrelative:jwtwithidentity\\models\\dtos\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|c:\\users\\omer\\source\\repos\\jwtwithidentity2\\jwtwithidentity\\validations\\fluentvalidations\\abstracts\\genericvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|solutionrelative:jwtwithidentity\\validations\\fluentvalidations\\abstracts\\genericvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|c:\\users\\omer\\source\\repos\\jwtwithidentity2\\jwtwithidentity\\jwtwithidentity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|solutionrelative:jwtwithidentity\\jwtwithidentity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|c:\\users\\omer\\source\\repos\\jwtwithidentity2\\jwtwithidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358D42EE-4F99-430C-B9DE-697D9A3D63ED}|JwtWithIdentity\\JwtWithIdentity.csproj|solutionrelative:jwtwithidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Validations\\FluentValidations\\ToDoItemValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JwtWithIdentity\\Validations\\FluentValidations\\ToDoItemValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\appsettings.json",
+              "RelativeDocumentMoniker": "JwtWithIdentity\\appsettings.json",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\appsettings.json",
+              "RelativeToolTip": "JwtWithIdentity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-03T11:32:31.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260303110526_AddedUserToDb.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Migrations\\20260303110526_AddedUserToDb.cs",
+              "RelativeDocumentMoniker": "JwtWithIdentity\\Migrations\\20260303110526_AddedUserToDb.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Migrations\\20260303110526_AddedUserToDb.cs",
+              "RelativeToolTip": "JwtWithIdentity\\Migrations\\20260303110526_AddedUserToDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T11:05:27.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Datas\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "JwtWithIdentity\\Datas\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Datas\\AppDbContext.cs",
+              "RelativeToolTip": "JwtWithIdentity\\Datas\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T11:03:36.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Repositories\\Abstracts\\Common\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "JwtWithIdentity\\Repositories\\Abstracts\\Common\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Repositories\\Abstracts\\Common\\GenericRepository.cs",
+              "RelativeToolTip": "JwtWithIdentity\\Repositories\\Abstracts\\Common\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:27:25.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Repositories\\Concretes\\Userr\\UserRepository.cs",
+              "RelativeDocumentMoniker": "JwtWithIdentity\\Repositories\\Concretes\\Userr\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Repositories\\Concretes\\Userr\\UserRepository.cs",
+              "RelativeToolTip": "JwtWithIdentity\\Repositories\\Concretes\\Userr\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:24:40.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Repositories\\Abstracts\\Interfaces\\Userr\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "JwtWithIdentity\\Repositories\\Abstracts\\Interfaces\\Userr\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Repositories\\Abstracts\\Interfaces\\Userr\\IUserRepository.cs",
+              "RelativeToolTip": "JwtWithIdentity\\Repositories\\Abstracts\\Interfaces\\Userr\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T08:12:13.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IToDoItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Repositories\\Abstracts\\Interfaces\\ToDoItemm\\IToDoItemRepository.cs",
+              "RelativeDocumentMoniker": "JwtWithIdentity\\Repositories\\Abstracts\\Interfaces\\ToDoItemm\\IToDoItemRepository.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Repositories\\Abstracts\\Interfaces\\ToDoItemm\\IToDoItemRepository.cs",
+              "RelativeToolTip": "JwtWithIdentity\\Repositories\\Abstracts\\Interfaces\\ToDoItemm\\IToDoItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T08:07:12.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\Source\\Repos\\JwtWithIdentity2\\JwtWithIdentity\\Repositories\\Abstracts\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "JwtWithIdentity\\Repositories\\Abstracts\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Omer\\Source\\Repos\\JwtWithIdentity2\\JwtWithIdentity\\Repositories\\Abstracts\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "JwtWithIdentity\\Repositories\\Abstracts\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:22:23.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddToDoItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Models\\DTOS\\AddToDoItemDTO.cs",
+              "RelativeDocumentMoniker": "JwtWithIdentity\\Models\\DTOS\\AddToDoItemDTO.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Models\\DTOS\\AddToDoItemDTO.cs",
+              "RelativeToolTip": "JwtWithIdentity\\Models\\DTOS\\AddToDoItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:00:54.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Models\\Entities\\Concretes\\User.cs",
+              "RelativeDocumentMoniker": "JwtWithIdentity\\Models\\Entities\\Concretes\\User.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Models\\Entities\\Concretes\\User.cs",
+              "RelativeToolTip": "JwtWithIdentity\\Models\\Entities\\Concretes\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:52:32.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Models\\DTOS\\AddUserDTO.cs",
+              "RelativeDocumentMoniker": "JwtWithIdentity\\Models\\DTOS\\AddUserDTO.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Models\\DTOS\\AddUserDTO.cs",
+              "RelativeToolTip": "JwtWithIdentity\\Models\\DTOS\\AddUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:51:31.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Validations\\FluentValidations\\Concrete\\UserValidator.cs",
+              "RelativeDocumentMoniker": "JwtWithIdentity\\Validations\\FluentValidations\\Concrete\\UserValidator.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Validations\\FluentValidations\\Concrete\\UserValidator.cs",
+              "RelativeToolTip": "JwtWithIdentity\\Validations\\FluentValidations\\Concrete\\UserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:48:20.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ToDoItemValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Validations\\FluentValidations\\Concrete\\ToDoItemValidator.cs",
+              "RelativeDocumentMoniker": "JwtWithIdentity\\Validations\\FluentValidations\\Concrete\\ToDoItemValidator.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Validations\\FluentValidations\\Concrete\\ToDoItemValidator.cs",
+              "RelativeToolTip": "JwtWithIdentity\\Validations\\FluentValidations\\Concrete\\ToDoItemValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:47:00.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtWithIdentity",
+              "DocumentMoniker": "C:\\Users\\Omer\\Source\\Repos\\JwtWithIdentity2\\JwtWithIdentity\\JwtWithIdentity.csproj",
+              "RelativeDocumentMoniker": "JwtWithIdentity\\JwtWithIdentity.csproj",
+              "ToolTip": "C:\\Users\\Omer\\Source\\Repos\\JwtWithIdentity2\\JwtWithIdentity\\JwtWithIdentity.csproj",
+              "RelativeToolTip": "JwtWithIdentity\\JwtWithIdentity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T06:44:46.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenericValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Validations\\FluentValidations\\Abstracts\\GenericValidator.cs",
+              "RelativeDocumentMoniker": "JwtWithIdentity\\Validations\\FluentValidations\\Abstracts\\GenericValidator.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Validations\\FluentValidations\\Abstracts\\GenericValidator.cs",
+              "RelativeToolTip": "JwtWithIdentity\\Validations\\FluentValidations\\Abstracts\\GenericValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:44:42.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Validations\\FluentValidations\\UserValidator.cs",
+              "RelativeDocumentMoniker": "JwtWithIdentity\\Validations\\FluentValidations\\UserValidator.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Validations\\FluentValidations\\UserValidator.cs",
+              "RelativeToolTip": "JwtWithIdentity\\Validations\\FluentValidations\\UserValidator.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T00:03:30.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ToDoItemValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Validations\\FluentValidations\\ToDoItemValidator.cs",
+              "RelativeDocumentMoniker": "JwtWithIdentity\\Validations\\FluentValidations\\ToDoItemValidator.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Validations\\FluentValidations\\ToDoItemValidator.cs",
+              "RelativeToolTip": "JwtWithIdentity\\Validations\\FluentValidations\\ToDoItemValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T00:02:24.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Program.cs",
+              "RelativeDocumentMoniker": "JwtWithIdentity\\Program.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\JwtWithIdentity2\\JwtWithIdentity\\Program.cs",
+              "RelativeToolTip": "JwtWithIdentity\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T23:57:07.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
